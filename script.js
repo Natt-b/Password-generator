@@ -90,12 +90,15 @@ var specialCharacters = [
   
   // Function to prompt user for password options
   function getPasswordOptions() {
-  
+  upperCasedCharacters
+  lowerCasedCharacters
+  numericCharacters
+  specialCharacters
   }
   
   // Function for getting a random element from an array
   function getRandom(arr) {
-  
+    return Math.floor(Math.random() ["upperCasedCharacters","lowerCasedCharacters","numericCharacters","specialCharacters"])
   }
   
   // Function to generate password with user input
@@ -116,3 +119,8 @@ var specialCharacters = [
   
   // Add event listener to generate button
   generateBtn.addEventListener('click', writePassword);
+
+
+
+  for (let i = 0; i < getPasswordOptions; i++) {
+    total += getRandom[i]; }

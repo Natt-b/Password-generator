@@ -1,6 +1,7 @@
 # Password-generator challenge
 
 This is the 5th challenge to combine Javascript, HTML and CSS to create a functional password generator.
+The challenge includes starter code.
 
 
 ## The generator will present a series of prompts for password:
